@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082200220343",
+    "project_id": "mysoreguide-3b51c",
+    "storage_bucket": "mysoreguide-3b51c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082200220343:android:e1fe13a2017818129ca332",
+        "android_client_info": {
+          "package_name": "com.example.touristguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082200220343-a63vue9u1anbfsj9vp5uaq9nksh1r48t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFR50f9jnYP3ZlXrVm-aLZIcmrbp-PQSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082200220343-a63vue9u1anbfsj9vp5uaq9nksh1r48t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
